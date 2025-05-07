@@ -41,7 +41,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-      <img src="https://raw.githubusercontent.com/ultralytics/assets/main/ultralytics-logo.svg" height="40" alt="YOLO" />
+      <img src="assets/ultralytics-logo.svg" height="40" alt="YOLO" />
     </td>
   </tr>
 </table>
