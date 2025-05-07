@@ -1,3 +1,15 @@
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">📚 Still learning ...<br></p>
+
+###
+
+<h2 align="left">Language I use</h2>
+
+###
+
 <div align="left">
   <!-- Embedded & Microcontrollers -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
@@ -30,3 +42,5 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/data/yolo.png" height="40" alt="YOLO" />
 </div>
+
+###
