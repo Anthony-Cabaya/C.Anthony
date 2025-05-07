@@ -11,19 +11,20 @@
 ###
 
 <div align="left">
-  <!-- **Embedded & IoT:** -->
   <strong>Embedded & IoT:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="24" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android" />
+  <img width="24" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino IDE" />
+  <img width="24" />
 
-  <!-- **Mobile Development:** -->
   <strong>Mobile Development:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
   <img width="24" />
 
-  <!-- **Web Development:** -->
   <strong>Web Development:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
   <img width="12" />
@@ -32,14 +33,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img width="24" />
 
-  <!-- **Databases & Backend:** -->
-  <strong>Databases & Backend:</strong>
+  <strong>Database & Real-time Database:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img width="24" />
 
-  <!-- **AI & Machine Learning:** -->
   <strong>AI & Machine Learning:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
